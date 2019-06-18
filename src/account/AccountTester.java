@@ -8,6 +8,8 @@ import java.util.Scanner;
 /**
  *
  * @author Sivagama
+ * @ modified by : Riya Sharma
+ *
  */
 public class AccountTester {
     
